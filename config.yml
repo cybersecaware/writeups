@@ -1,0 +1,62 @@
+baseURL: "/"
+languageCode: 'en-ie'
+title: 'THM & HTB Write-ups 📔'
+theme:  'PaperMod'
+
+pages:
+  markdown:
+    extra: true
+
+params:
+  homeInfoParams:
+    Title: "Welcome 👋🏻"
+    Content: Here you will find write-ups for some Try Hack Me and Hack The Box Rooms I have completed.
+  socialIcons:
+    - name: facebook
+      url: "https://www.facebook.com/JamesMaher77"
+    - name: linkedIn
+      url: "https://www.linkedin.com/in/james-maher-694aa13b"
+    - name: twitter
+      url: "https://twitter.com/James_Maher77"
+
+  cover:
+      linkFullImages: true
+      responsiveImages: false
+
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  
+
+outputs:
+  home:
+      - HTML
+      - RSS
+      - JSON # is necessary
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 50
+
