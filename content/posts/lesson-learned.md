@@ -49,7 +49,7 @@ The SQL query would look like the image below.  The modified query will delete e
 
 An unintended method to bypass the login would be to use the UNION command i.e. `'UNION SELECT 1 -- -`.  This also works because when it comes to the delete command in the image above the union command is invalid and not executed. This will bypass the login and you will get the flag but we will carry on as intended.
 
-### OOPS!
+### Oops!
 
 ![OPPs](/img/lesson-learned/opps.png#center "OPPs Message")
 
