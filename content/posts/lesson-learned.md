@@ -6,7 +6,7 @@ cover:
     image: "img/lesson-learned/lesson-learned.png"
     alt: "Lesson Learned"
     caption: "Lesson Learned"
-tags: ["THM","Easy","SQL Injection","Hydra"]
+tags: ["THM","Easy","SQL Injection","Hydra","Brute Force","Username Enumeration"]
 categories: ["OWASP Authentication","SQL Injection","Bad Practice","Brute Force"]
 weight: 1
 ---
