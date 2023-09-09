@@ -11,7 +11,7 @@ categories: ["OWASP Authentication","SQL Injection","Bad Practice","Brute Force"
 weight: 1
 ---
 
-### This post is a walkthrough of the Try Hack Me room [Grep](https://tryhackme.com/room/lessonlearned){style="text-align: center;"}
+### This post is a walkthrough of the Try Hack Me room [Lesson-Learned](https://tryhackme.com/room/lessonlearned){style="text-align: center;"}
 
 ---
 
