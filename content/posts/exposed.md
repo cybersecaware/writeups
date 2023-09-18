@@ -6,7 +6,7 @@ cover:
     image: "img/expose/Expose.png"
     alt: "Expose"
     caption: "Expose"
-tags: ["THM","Easy","SQL Injection","PHP Shell","SQLMap"]
+tags: ["THM","Easy","SQL Injection","PHP Shell","SQLMap","SUID Binaries"]
 categories: ["SQL Injection","Bad Passwords","Linux"]
 weight: 1
 ---
