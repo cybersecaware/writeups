@@ -177,7 +177,7 @@ listening on tun0, link-type RAW (Raw IP), snapshot length 262144 bytes
 
 ![Ping Kali](/img/athena/ping_kali.png#center "Ping Kali Host")
 
-Now can we inject os commands after the ping command such as whoami to see if the web page displays the response with userame.
+Now can we inject os commands after the ping command such as whoami to see if the web page displays the response with username.
 
 ![Append A CMD](/img/athena/append_cmd.png#center "Append Whoami")
 
